@@ -1,4 +1,6 @@
-First Runner's up and winner of Best Design for HackVision 2021 hackathon held at RMIT
+# BYOCC (Bring Your Own Coffee Cups)
+> * First Runner's up and winner of Best Design for HackVision 2021 hackathon held at RMIT
+> * [Devpost](https://devpost.com/software/byocc)
 
 ## Introduction
 BYOCC is a solution to promote sustainability and reduce waste by encouraging people to bring their own keep cups when buying coffee from their favorite coffee place. The idea is similar to a stamp based loyalty card. Businesses offer a loyalty program that provides a stamp each time the customer brings their own coffee cup. Depending on the program, when the user fills up the loyalty card with the required number of stamps, they are entitled to a freebie based on what the business offers.
